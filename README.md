@@ -8,4 +8,4 @@ Bidirectional recurrent neural networks(RNN) are really just putting two indepen
 
 Using bidirectional will run your inputs in two ways, one from past to future and one from future to past and what differs this approach from unidirectional is that in the LSTM that runs backward you preserve information from the future and using the two hidden states combined you are able in any point in time to preserve information from both past and future.
 
-<img src="![image](https://user-images.githubusercontent.com/109072424/216575497-c5e99dbd-7bc0-42e8-9b78-b26409ed5e15.png)">
+![image](https://user-images.githubusercontent.com/109072424/216575497-c5e99dbd-7bc0-42e8-9b78-b26409ed5e15.png)"
